@@ -1,0 +1,45 @@
+<resources>
+    <!--App-->
+    <string name="app_name">WeChatMsg</string>
+
+    <!--Welcome-->
+    <string name="welcome_label">欢迎使用EnMicroMsg</string>
+    <string name="welcome_manual">使用说明</string>
+    <string name="welcome_manul_detial">1.本应用功能需要授予Root权限\n2.请勿使用本应用进行非法操作</string>
+    <string name="welcome_start">开始使用</string>
+
+    <!--Main-->
+    <string name="main_title_home">首页</string>
+    <string name="main_title_grouds">群聊</string>
+    <string name="main_title_export">导出</string>
+
+    <!--Home-->
+    <string name="home_item_wechat">微信是否已经安装</string>
+    <string name="home_item_root">设备是否已Root</string>
+    <string name="home_item_permission">授予应用Root权限</string>
+    <string name="home_item_data">提取数据</string>
+    <string name="home_state_undetected">未检测</string>
+    <string name="home_state_detecting">检测中</string>
+    <string name="home_state_installed">已安装</string>
+    <string name="home_state_uninstalled">未安装</string>
+    <string name="home_state_rooted">已Root</string>
+    <string name="home_state_unrooted">未Root</string>
+    <string name="home_state_authorized">已授权</string>
+    <string name="home_state_unauthorized">未授权</string>
+    <string name="home_state_not_get">未提取</string>
+    <string name="home_state_acquired">已提取</string>
+    <string name="home_detect_start">一键分析</string>
+    <string name="home_detect_detecting">正在分析...</string>
+    <string name="home_detect_stop">停止分析</string>
+    <string name="home_desc">点击按钮进行检测并提取数据</string>
+
+    <!--SharedPerferences-->
+    <string name="shared_perf_app">shared_app_file</string>
+    <string name="shared_perf_data">shared_data_file</string>
+    <string name="saved_app_is_first_start">isFirstStart</string>
+    <string name="saved_app_secret">secret</string>
+
+    <string name="saved_db_num">dbNum</string>
+    <string name="saved_db_pwd">dbPwd</string>
+
+</resources>

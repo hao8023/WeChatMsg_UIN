@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0c6157</color>
+    <color name="colorPrimaryDark">#074e45</color>
+    <color name="colorAccent">#00897b</color>
+    <color name="windowBackground">#eeeeee</color>
+
+    <!--AppColor-->
+    <color name="green_checked">#1aa260</color>
+    <color name="red_error">#dd4d40</color>
+    <color name="gray_info">#767d81</color>
+    <color name="white_tab_normal">#8bb5b0</color>
+
+    <!--Common-->
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+</resources>
